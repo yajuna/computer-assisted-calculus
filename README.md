@@ -5,5 +5,5 @@ badge on the upper left corner of the notebooks, or click this badge for the ent
 
 Your work will be saved in your Google Drive.
 
-You can also use the Binder project by clicking [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yajuna/computer-assisted-calculus/tree/master/HEAD)
+You can also use the Binder project by clicking [[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yajuna/computer-assisted-calculus/tree/master/HEAD)](https://mybinder.org/v2/gh/yajuna/computer-assisted-calculus/HEAD)
 But know that you will need to save your work when you are done, as the server will automatically shut down if inactive after 20 minutes.
